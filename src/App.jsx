@@ -84,7 +84,7 @@ const App = () => {
       comment: 'No comments'
     },{
       id: 9,
-      img: 'https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png',
+      img: 'https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp',
       field: 'cybersecurity',
       title: 'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
       desc: 'Cybersecurity & Ethical hacking and have been key in making sure that your data online',
