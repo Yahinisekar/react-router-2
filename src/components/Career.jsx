@@ -13,7 +13,7 @@ const Career = ({data}) => {
     <div className="card-body">
                 <h5 className="card-title">{item.title}</h5>
                   <p className="card-text">{item.desc}</p>
-                  <Link className='read-more'>Read more</Link>
+                  <Link className='read-more'>Read More »</Link>
     </div>
     <div className="card-footer">
       <small className="text-body-secondary">{item.date}</small>

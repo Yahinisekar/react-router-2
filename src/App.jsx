@@ -84,7 +84,7 @@ const App = () => {
       comment: 'No comments'
     },{
       id: 9,
-      img: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1536x480.jpg',
+      img: 'https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif',
       field: 'cybersecurity',
       title: 'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
       desc: 'Cybersecurity & Ethical hacking and have been key in making sure that your data online',
@@ -108,7 +108,7 @@ const App = () => {
       comment: 'No comments'
     },{
       id: 12,
-      img: 'https://www.guvi.in/blog/product-based-companies-for-project-management/',
+      img:'https://www.guvi.in/blog/wp-content/uploads/2023/11/FEATURE-IMAGE-1-3-2048x1072.webp',
       field: 'career',
       title: 'UI/UX Designer Job Description and Roles & Responsibilities',
     desc: 'UI UX is the abbreviated word that’s been rocking the trend over the years, especially',
