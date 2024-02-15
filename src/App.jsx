@@ -84,7 +84,7 @@ const App = () => {
       comment: 'No comments'
     },{
       id: 9,
-      img: 'https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png',
+      img: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1536x480.jpg',
       field: 'cybersecurity',
       title: 'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
       desc: 'Cybersecurity & Ethical hacking and have been key in making sure that your data online',
@@ -92,7 +92,7 @@ const App = () => {
       comment: 'No comments'
     },{
       id: 10,
-      img: 'https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image.jpg',
+      img: 'https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp',
       field: 'career',
       title: 'Master JavaScript Frontend Roadmap: From Novice to Expert [2024]',
       desc: 'Are you eager to learn JavaScript? Want to dive deep into the JavaScript frontend roadmap?',
@@ -108,7 +108,7 @@ const App = () => {
       comment: 'No comments'
     },{
       id: 12,
-      img: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg',
+      img: 'https://www.guvi.in/blog/product-based-companies-for-project-management/',
       field: 'career',
       title: 'UI/UX Designer Job Description and Roles & Responsibilities',
     desc: 'UI UX is the abbreviated word that’s been rocking the trend over the years, especially',
