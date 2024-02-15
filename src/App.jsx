@@ -84,7 +84,7 @@ const App = () => {
       comment: 'No comments'
     },{
       id: 9,
-      img: 'https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp',
+      img: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg',
       field: 'cybersecurity',
       title: 'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
       desc: 'Cybersecurity & Ethical hacking and have been key in making sure that your data online',
